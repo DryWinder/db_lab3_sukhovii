@@ -1,0 +1,748 @@
+player_id,player_name,player_position,team_id
+1,Courtois                                          ,Goalkeeper     ,1
+2,Vinícius Júnior                                   ,Forward        ,1
+3,Benzema                                           ,Forward        ,1
+4,Modrić                                            ,Midfielder     ,1
+5,Éder Militão                                      ,Defender       ,1
+6,Alaba                                             ,Defender       ,1
+7,Carvajal                                          ,Defender       ,1
+8,Casemiro                                          ,Midfielder     ,1
+9,Kroos                                             ,Midfielder     ,1
+10,Mendy                                             ,Defender       ,1
+11,Valverde                                          ,Midfielder     ,1
+12,Nacho                                             ,Defender       ,1
+13,Rodrygo                                           ,Forward        ,1
+14,Lucas Vázquez                                     ,Midfielder     ,1
+15,Camavinga                                         ,Midfielder     ,1
+16,Asensio                                           ,Forward        ,1
+17,Jović                                             ,Forward        ,1
+18,Marcelo                                           ,Defender       ,1
+19,E. Hazard                                         ,Forward        ,1
+20,Miguel Gutiérrez                                  ,Defender       ,1
+21,Ceballos                                          ,Midfielder     ,1
+22,Mariano Díaz                                      ,Forward        ,1
+23,Vallejo                                           ,Defender       ,1
+24,Bale                                              ,Forward        ,1
+25,Blanco                                            ,Midfielder     ,1
+26,Alisson Becker                                    ,Goalkeeper     ,2
+27,Salah                                             ,Forward        ,2
+28,Fabinho                                           ,Midfielder     ,2
+29,Robertson                                         ,Defender       ,2
+30,Mané                                              ,Midfielder     ,2
+31,Van Dijk                                          ,Defender       ,2
+32,Alexander-Arnold                                  ,Defender       ,2
+33,Konaté                                            ,Defender       ,2
+34,J.Henderson                                       ,Midfielder     ,2
+35,Matip                                             ,Defender       ,2
+36,Thiago Alcántara                                  ,Midfielder     ,2
+37,Diogo Jota                                        ,Forward        ,2
+38,Keïta                                             ,Midfielder     ,2
+39,Luis Díaz                                         ,Forward        ,2
+40,Tsimikas                                          ,Defender       ,2
+41,Firmino                                           ,Midfielder     ,2
+42,Oxlade-Chamberlain                                ,Midfielder     ,2
+43,Gomez                                             ,Defender       ,2
+44,Minamino                                          ,Forward        ,2
+45,Milner                                            ,Midfielder     ,2
+46,Origi                                             ,Forward        ,2
+47,Jones                                             ,Midfielder     ,2
+48,N. Williams                                       ,Defender       ,2
+49,Morton                                            ,Midfielder     ,2
+50,Phillips                                          ,Defender       ,2
+51,Elliott                                           ,Midfielder     ,2
+52,Woltman                                           ,Midfielder     ,2
+53,Bradley                                           ,Midfielder     ,2
+54,Pau Torres                                        ,Defender       ,3
+55,Rulli                                             ,Goalkeeper     ,3
+56,Parejo                                            ,Midfielder     ,3
+57,Capoue                                            ,Midfielder     ,3
+58,Albiol                                            ,Defender       ,3
+59,Ederson                                           ,Goalkeeper     ,4
+60,Mahrez                                            ,Midfielder     ,4
+61,Danjuma                                           ,Midfielder     ,3
+62,Vertonghen                                        ,Defender       ,5
+63,Vlachodimos                                       ,Goalkeeper     ,5
+64,Oblak                                             ,Goalkeeper     ,6
+65,Foyth                                             ,Defender       ,3
+66,Bernardo Silva                                    ,Midfielder     ,4
+67,Lewandowski                                       ,Forward        ,7
+68,Grimaldo                                          ,Defender       ,5
+69,Rodri                                             ,Midfielder     ,4
+70,João Cancelo                                      ,Defender       ,4
+71,Rüdiger                                           ,Defender       ,8
+72,E.Mendy                                           ,Goalkeeper     ,8
+73,Reinildo                                          ,Defender       ,9
+74,Neuer                                             ,Goalkeeper     ,7
+75,Weigl                                             ,Midfielder     ,5
+76,Otamendi                                          ,Defender       ,5
+77,Sané                                              ,Midfielder     ,7
+78,Laporte                                           ,Defender       ,4
+79,Müller                                            ,Forward        ,7
+80,Pavard                                            ,Defender       ,7
+81,Thiago Silva                                      ,Defender       ,8
+82,De Bruyne                                         ,Midfielder     ,4
+83,Škriniar                                          ,Defender       ,10
+84,Kristensen                                        ,Defender       ,11
+85,L.Martínez                                        ,Defender       ,12
+86,Marquinhos                                        ,Defender       ,13
+87,Fonte                                             ,Defender       ,9
+88,Köhn                                              ,Goalkeeper     ,11
+89,Handanovič                                        ,Goalkeeper     ,10
+90,Hakimi                                            ,Defender       ,13
+91,Ulmer                                             ,Defender       ,11
+92,Gilberto                                          ,Defender       ,5
+93,Aaronson                                          ,Midfielder     ,11
+94,Rafa Silva                                        ,Forward        ,5
+95,Gravenberch                                       ,Midfielder     ,12
+96,Kimmich                                           ,Midfielder     ,7
+97,Marcos Llorente                                   ,Midfielder     ,6
+98,Azpilicueta                                       ,Defender       ,8
+99,David                                             ,Forward        ,9
+100,Mbappé                                            ,Forward        ,13
+101,Havertz                                           ,Midfielder     ,8
+102,D.Camara                                          ,Midfielder     ,11
+103,Haller                                            ,Forward        ,12
+104,Bastoni                                           ,Defender       ,10
+105,Koke                                              ,Midfielder     ,6
+106,Rúben Dias                                        ,Defender       ,4
+107,Mazraoui                                          ,Defender       ,12
+108,Gündoğan                                          ,Midfielder     ,4
+109,Upamecano                                         ,Defender       ,7
+110,Foden                                             ,Midfielder     ,4
+111,Seiwald                                           ,Midfielder     ,11
+112,Estupiñán                                         ,Defender       ,3
+113,Stones                                            ,Defender       ,4
+114,Brozović                                          ,Midfielder     ,10
+115,Coman                                             ,Forward        ,7
+116,Messi                                             ,Forward        ,13
+117,Tadić                                             ,Forward        ,12
+118,André                                             ,Midfielder     ,9
+119,Kimpembe                                          ,Defender       ,13
+120,Adán                                              ,Goalkeeper     ,14
+121,Szczęsny                                          ,Goalkeeper     ,15
+122,De Gea                                            ,Goalkeeper     ,16
+123,Berghuis                                          ,Forward        ,12
+124,De Ligt                                           ,Defender       ,15
+125,Núñez                                             ,Forward        ,5
+126,Matheus Reis                                      ,Defender       ,14
+127,Ronaldo                                           ,Forward        ,16
+128,Adeyemi                                           ,Forward        ,11
+129,Christensen                                       ,Defender       ,8
+130,Zeki Çelik                                        ,Defender       ,9
+131,M.Martínez                                        ,Forward        ,10
+132,Giménez                                           ,Defender       ,6
+133,Paulinho                                          ,Forward        ,14
+134,Sterling                                          ,Forward        ,4
+135,Nuno Mendes                                       ,Defender       ,13
+136,Bonucci                                           ,Defender       ,15
+137,Kondogbia                                         ,Midfielder     ,6
+138,De Paul                                           ,Midfielder     ,6
+139,Antony                                            ,Forward        ,12
+140,Walker                                            ,Defender       ,4
+141,João Félix                                        ,Forward        ,6
+142,Wöber                                             ,Defender       ,11
+143,Blind                                             ,Defender       ,12
+144,L. Hernández                                      ,Defender       ,7
+145,J. Timber                                         ,Midfielder     ,12
+146,Jorginho                                          ,Midfielder     ,8
+147,Gonçalo Inácio                                    ,Defender       ,14
+148,Álvarez                                           ,Midfielder     ,12
+149,Alex Sandro                                       ,Defender       ,15
+150,Alonso                                            ,Defender       ,8
+151,Everton                                           ,Forward        ,5
+152,Džeko                                             ,Forward        ,10
+153,Vanaken                                           ,Midfielder     ,17
+154,S. Thill                                          ,Midfielder     ,18
+155,Coates                                            ,Defender       ,14
+156,Arnold                                            ,Midfielder     ,19
+157,Cristiano                                         ,Defender       ,18
+158,Zabarnyi                                          ,Defender       ,20
+159,Fernando                                          ,Midfielder     ,21
+160,Fernando Costanza                                 ,Defender       ,18
+161,Dodô                                              ,Defender       ,22
+162,Barrios                                           ,Midfielder     ,23
+163,Lacroix                                           ,Defender       ,19
+164,Hendry                                            ,Defender       ,17
+165,Arboleda                                          ,Defender       ,18
+166,Dulanto                                           ,Defender       ,18
+167,Bounou                                            ,Goalkeeper     ,21
+168,Kobel                                             ,Goalkeeper     ,24
+169,Mignolet                                          ,Goalkeeper     ,17
+170,Musso                                             ,Goalkeeper     ,25
+171,Pasveer                                           ,Goalkeeper     ,12
+172,Grbić                                             ,Goalkeeper     ,9
+173,Diogo Costa                                       ,Goalkeeper     ,26
+174,Ter Stegen                                        ,Goalkeeper     ,27
+175,Locatelli                                         ,Midfielder     ,15
+176,Diego Carlos                                      ,Defender       ,21
+177,Mount                                             ,Midfielder     ,8
+178,Rabiot                                            ,Midfielder     ,15
+179,Sydorchuk                                         ,Midfielder     ,20
+180,Maguire                                           ,Defender       ,16
+181,João Palhinha                                     ,Midfielder     ,14
+182,Tiago Djaló                                       ,Defender       ,9
+183,Moumi Ngamaleu                                    ,Midfielder     ,28
+184,Perišić                                           ,Midfielder     ,10
+185,Nkunku                                            ,Midfielder     ,29
+186,Traore                                            ,Midfielder     ,18
+187,Burak Yılmaz                                      ,Forward        ,9
+188,Pedro Porro                                       ,Defender       ,14
+189,Lang                                              ,Forward        ,17
+190,Clinton Mata                                      ,Defender       ,17
+191,Freuler                                           ,Midfielder     ,25
+192,Depay                                             ,Forward        ,27
+193,Gerard Moreno                                     ,Forward        ,3
+194,Lo Celso                                          ,Midfielder     ,3
+195,F. de Jong                                        ,Midfielder     ,27
+196,Morata                                            ,Forward        ,15
+197,Bruno Fernandes                                   ,Midfielder     ,16
+198,Griezmann                                         ,Forward        ,6
+199,Sučić                                             ,Midfielder     ,11
+200,Süle                                              ,Defender       ,7
+201,Yaremchuk                                         ,Forward        ,5
+202,Sarabia                                           ,Forward        ,14
+203,Matheus Nunes                                     ,Midfielder     ,14
+204,James                                             ,Defender       ,8
+205,Aebischer                                         ,Midfielder     ,28
+206,Bellingham                                        ,Midfielder     ,24
+207,Zinchenko                                         ,Defender       ,4
+208,De Ketelaere                                      ,Forward        ,17
+209,Čolak                                             ,Forward        ,30
+210,Reus                                              ,Midfielder     ,24
+211,Rakitskyy                                         ,Defender       ,23
+212,Barella                                           ,Midfielder     ,10
+213,Innocent                                          ,Midfielder     ,30
+214,Taremi                                            ,Forward        ,26
+215,João Máriot                                       ,Midfielder     ,5
+216,Addo                                              ,Midfielder     ,18
+217,Tsygankov                                         ,Midfielder     ,20
+218,Elia                                              ,Forward        ,28
+219,De Vrij                                           ,Defender       ,10
+220,Sergio Busquets                                   ,Midfielder     ,27
+221,Shaparenko                                        ,Midfielder     ,20
+222,Mukiele                                           ,Defender       ,29
+223,D.Wendel                                          ,Midfielder     ,23
+224,Meunier                                           ,Defender       ,24
+225,De Roon                                           ,Midfielder     ,25
+226,Nsoki                                             ,Defender       ,17
+227,Renan Lodi                                        ,Defender       ,6
+228,Davies                                            ,Midfielder     ,7
+229,Maycon                                            ,Midfielder     ,22
+230,Carrasco                                          ,Forward        ,6
+231,Cuadrado                                          ,Midfielder     ,15
+232,Felipe                                            ,Defender       ,6
+233,Witsel                                            ,Midfielder     ,24
+234,Neymar                                            ,Forward        ,13
+235,Bamba                                             ,Forward        ,9
+236,Dumfries                                          ,Defender       ,10
+237,Goretzka                                          ,Midfielder     ,7
+238,Zapata                                            ,Forward        ,25
+239,Coquelin                                          ,Midfielder     ,3
+240,Ocampos                                           ,Midfielder     ,21
+241,Lauper                                            ,Midfielder     ,28
+242,Grealish                                          ,Midfielder     ,4
+243,Claudinho                                         ,Midfielder     ,23
+244,Otávio                                            ,Midfielder     ,26
+245,Feddal                                            ,Defender       ,14
+246,Palomino                                          ,Defender       ,25
+247,T. Hernández                                      ,Defender       ,31
+248,D.Danilo                                          ,Defender       ,15
+249,Mykolenko                                         ,Defender       ,20
+250,Syrota                                            ,Defender       ,20
+251,Koundé                                            ,Defender       ,21
+252,Savić                                             ,Defender       ,6
+253,Akanji                                            ,Defender       ,24
+254,L. Nielsen                                        ,Defender       ,30
+255,Marlon                                            ,Defender       ,22
+256,Mbemba                                            ,Defender       ,26
+257,Casteels                                          ,Goalkeeper     ,19
+258,Ersin Destanoğlu                                  ,Goalkeeper     ,32
+259,Donnarumma                                        ,Goalkeeper     ,13
+260,Gulácsi                                           ,Goalkeeper     ,29
+261,Bushchan                                          ,Goalkeeper     ,20
+262,Athanasiadis                                      ,Goalkeeper     ,18
+263,Musiala                                           ,Midfielder     ,7
+264,Brorsson                                          ,Defender       ,30
+265,Ziyech                                            ,Midfielder     ,8
+266,Saelemaekers                                      ,Midfielder     ,31
+267,Douglas Santos                                    ,Defender       ,23
+268,Chistiakov                                        ,Defender       ,23
+269,Souza                                             ,Midfielder     ,32
+270,Berget                                            ,Midfielder     ,30
+271,Onguéné                                           ,Defender       ,11
+272,Buyalskiy                                         ,Midfielder     ,20
+273,Xeka                                              ,Midfielder     ,9
+274,Mæhle                                             ,Defender       ,25
+275,Garcia                                            ,Defender       ,28
+276,Malcom                                            ,Forward        ,23
+277,Fred                                              ,Midfielder     ,16
+278,Angeliño                                          ,Defender       ,29
+279,Pedraza                                           ,Midfielder     ,3
+280,Pino                                              ,Forward        ,3
+281,Verratti                                          ,Midfielder     ,13
+282,Guilavogui                                        ,Midfielder     ,19
+283,Kanté                                             ,Midfielder     ,8
+284,Kovačić                                           ,Midfielder     ,8
+285,Lindelöf                                          ,Defender       ,16
+286,Hermoso                                           ,Defender       ,6
+287,C. Martins Pereira                                ,Midfielder     ,28
+288,Hakan Çalhanoğlu                                  ,Midfielder     ,10
+289,Wan-Bissaka                                       ,Defender       ,16
+290,Tomori                                            ,Defender       ,31
+291,Botman                                            ,Defender       ,9
+292,Rits                                              ,Midfielder     ,17
+293,Baku                                              ,Midfielder     ,19
+294,Ahmedhodžić                                       ,Defender       ,30
+295,André Silva                                       ,Forward        ,29
+296,Vidal                                             ,Midfielder     ,10
+297,Balanta                                           ,Midfielder     ,17
+298,Renato Sanches                                    ,Midfielder     ,9
+299,Zappacosta                                        ,Defender       ,25
+300,Laimer                                            ,Midfielder     ,29
+301,Kolovos                                           ,Midfielder     ,18
+302,Rosier                                            ,Defender       ,32
+303,A.Correa                                          ,Forward        ,6
+304,Gueye                                             ,Midfielder     ,13
+305,McTominay                                         ,Midfielder     ,16
+306,Gavi                                              ,Midfielder     ,27
+307,Weghorst                                          ,Forward        ,19
+308,Shaw                                              ,Defender       ,16
+309,Brandt                                            ,Midfielder     ,24
+310,Sancho                                            ,Midfielder     ,16
+311,Piqué                                             ,Defender       ,27
+312,Malen                                             ,Forward        ,24
+313,Romagnoli                                         ,Defender       ,31
+314,Gnabry                                            ,Forward        ,7
+315,Zaidu                                             ,Defender       ,26
+316,McKennie                                          ,Midfielder     ,15
+317,Hefti                                             ,Defender       ,28
+318,Forsberg                                          ,Forward        ,29
+319,Batshuayi                                         ,Forward        ,32
+320,Bentancur                                         ,Midfielder     ,15
+321,Ricardo Esgaio                                    ,Defender       ,14
+322,Acuña                                             ,Defender       ,21
+323,Lemar                                             ,Midfielder     ,6
+324,Bennacer                                          ,Midfielder     ,31
+325,De Pena                                           ,Midfielder     ,20
+326,Jordi Alba                                        ,Defender       ,27
+327,Tetê                                              ,Forward        ,22
+328,Demiral                                           ,Defender       ,25
+329,Gonçalo Ramos                                     ,Forward        ,5
+330,Luís Neto                                         ,Defender       ,14
+331,Pulišić                                           ,Midfielder     ,8
+332,Ronald Araújo                                     ,Defender       ,27
+333,Kędziora                                          ,Defender       ,20
+334,Danilo                                            ,Midfielder     ,13
+335,Roussillon                                        ,Defender       ,19
+336,Tolói                                             ,Defender       ,25
+337,Matviyenko                                        ,Defender       ,22
+338,Kritsyuk                                          ,Goalkeeper     ,23
+339,Loftus-Cheek                                      ,Forward        ,8
+340,Hummels                                           ,Defender       ,24
+341,Castañeda                                         ,Midfielder     ,18
+342,Klostermann                                       ,Defender       ,29
+343,Birmančević                                       ,Midfielder     ,30
+344,Ismaily                                           ,Defender       ,22
+345,Larin                                             ,Forward        ,32
+346,Varane                                            ,Defender       ,16
+347,Jesus                                             ,Forward        ,4
+348,Brahim Díaz                                       ,Midfielder     ,31
+349,João Mário                                        ,Forward        ,26
+350,D.Fernando                                        ,Midfielder     ,22
+351,Pepe                                              ,Defender       ,26
+352,Fernandinho                                       ,Midfielder     ,4
+353,Luis Suárez                                       ,Forward        ,6
+354,Pogba                                             ,Midfielder     ,16
+355,Camara                                            ,Defender       ,28
+356,Okafor                                            ,Midfielder     ,11
+357,Ghezzal                                           ,Midfielder     ,32
+358,Lenglet                                           ,Defender       ,27
+359,Taarabt                                           ,Midfielder     ,5
+360,Pedrinho                                          ,Midfielder     ,22
+361,Siebatcheu                                        ,Forward        ,28
+362,Vranckx                                           ,Midfielder     ,19
+363,Chiesa                                            ,Forward        ,15
+364,Gvardiol                                          ,Defender       ,29
+365,Tonali                                            ,Midfielder     ,31
+366,Jesús Navas                                       ,Defender       ,21
+367,Sobol                                             ,Defender       ,17
+368,Brooks                                            ,Defender       ,19
+369,Trigueros                                         ,Midfielder     ,3
+370,Pedro Gonçalves                                   ,Midfielder     ,14
+371,Mbabu                                             ,Defender       ,19
+372,Solet                                             ,Defender       ,11
+373,Christiansen                                      ,Midfielder     ,30
+374,Jordán                                            ,Midfielder     ,21
+375,D.Herrera                                         ,Midfielder     ,13
+376,Garmash                                           ,Midfielder     ,20
+377,Aké                                               ,Defender       ,4
+378,L. Nmecha                                         ,Forward        ,19
+379,Solomon                                           ,Midfielder     ,22
+380,G.Gómez                                           ,Forward        ,21
+381,Kessié                                            ,Midfielder     ,31
+382,Lukaku                                            ,Forward        ,8
+383,Grujić                                            ,Midfielder     ,26
+384,Paredes                                           ,Midfielder     ,13
+385,Calabria                                          ,Defender       ,31
+386,Orbán                                             ,Defender       ,29
+387,Lovren                                            ,Defender       ,23
+388,Dahlin                                            ,Goalkeeper     ,30
+389,Evanilson                                         ,Forward        ,26
+390,Welinton                                          ,Defender       ,32
+391,Bruno                                             ,Midfielder     ,18
+392,Moreno                                            ,Defender       ,3
+393,Montero                                           ,Defender       ,32
+394,Vrsaljko                                          ,Defender       ,6
+395,Greenwood                                         ,Forward        ,16
+396,Azmoun                                            ,Forward        ,23
+397,Malinovskyi                                       ,Midfielder     ,25
+398,Sérgio Oliveira                                   ,Midfielder     ,26
+399,Lol.Karavaev                                      ,Defender       ,23
+400,Sowah                                             ,Forward        ,17
+401,Ikoné                                             ,Midfielder     ,9
+402,Simakan                                           ,Defender       ,29
+403,Lukebakio                                         ,Forward        ,19
+404,Rafael Leão                                       ,Forward        ,31
+405,Sutormin                                          ,Midfielder     ,23
+406,Alex Telles                                       ,Defender       ,16
+407,Bernardeschi                                      ,Midfielder     ,15
+408,Adams                                             ,Midfielder     ,29
+409,Hudson-Odoi                                       ,Midfielder     ,8
+410,Uribe                                             ,Midfielder     ,26
+411,De Sciglio                                        ,Defender       ,15
+412,M. Olsson                                         ,Defender       ,30
+413,Dimarco                                           ,Defender       ,10
+414,Capaldo                                           ,Midfielder     ,11
+415,X.Peña                                            ,Midfielder     ,30
+416,Dzyuba                                            ,Forward        ,23
+417,Rakitić                                           ,Midfielder     ,21
+418,Larsson                                           ,Defender       ,30
+419,Chukwueze                                         ,Midfielder     ,3
+420,Rakip                                             ,Midfielder     ,30
+421,Rieder                                            ,Midfielder     ,28
+422,Rafa Mir                                          ,Forward        ,21
+423,Kampl                                             ,Midfielder     ,29
+424,Verissimo                                         ,Defender       ,5
+425,Sakala                                            ,Defender       ,32
+426,Kjær                                              ,Defender       ,31
+427,Faivre                                            ,Goalkeeper     ,28
+428,Tătăruşanu                                        ,Goalkeeper     ,31
+429,Maignan                                           ,Goalkeeper     ,31
+430,Trubin                                            ,Goalkeeper     ,22
+431,Navas                                             ,Goalkeeper     ,13
+432,Von Ballmoos                                      ,Goalkeeper     ,28
+433,Fassnacht                                         ,Midfielder     ,28
+434,Alan Patrick                                      ,Midfielder     ,22
+435,Pyatov                                            ,Goalkeeper     ,22
+436,Arthur                                            ,Midfielder     ,15
+437,Kenan Karaman                                     ,Forward        ,32
+438,Wijnaldum                                         ,Midfielder     ,13
+439,Giroud                                            ,Forward        ,31
+440,Pjanic                                            ,Midfielder     ,32
+441,Mehmet Topal                                      ,Midfielder     ,32
+442,Di María                                          ,Forward        ,13
+443,Djimsiti                                          ,Defender       ,25
+444,Dia                                               ,Forward        ,3
+445,D.Steffen                                         ,Midfielder     ,19
+446,D.Onana                                           ,Midfielder     ,9
+447,Rashford                                          ,Forward        ,16
+448,Kuzyaev                                           ,Midfielder     ,23
+449,Marcos Antônio                                    ,Midfielder     ,22
+450,Dybala                                            ,Forward        ,15
+451,Weah                                              ,Forward        ,9
+452,Meraş                                             ,Defender       ,32
+453,Krunić                                            ,Midfielder     ,31
+454,Iličić                                            ,Midfielder     ,25
+455,Nico González                                     ,Midfielder     ,27
+456,Eric García                                       ,Defender       ,27
+457,Werner                                            ,Forward        ,8
+458,Gudmundsson                                       ,Defender       ,9
+459,Sierro                                            ,Midfielder     ,28
+460,André Almeida                                     ,Defender       ,5
+461,Šeško                                             ,Forward        ,11
+462,Tolisso                                           ,Midfielder     ,7
+463,Dalot                                             ,Defender       ,16
+464,Klaassen                                          ,Midfielder     ,12
+465,Adamu                                             ,Forward        ,11
+466,Dest                                              ,Defender       ,27
+467,Suso                                              ,Forward        ,21
+468,H.Herrera                                         ,Midfielder     ,6
+469,Stepanenko                                        ,Midfielder     ,22
+470,Diawara                                           ,Goalkeeper     ,30
+471,Moi Gómez                                         ,Midfielder     ,3
+472,Rieks                                             ,Midfielder     ,30
+473,Pašalić                                           ,Midfielder     ,25
+474,Trippier                                          ,Defender       ,6
+475,Mingueza                                          ,Defender       ,27
+476,Bozdoğan                                          ,Midfielder     ,32
+477,Nuno Santos                                       ,Forward        ,14
+478,Vitinha                                           ,Midfielder     ,26
+479,Kalulu                                            ,Defender       ,31
+480,Dahoud                                            ,Midfielder     ,24
+481,Corona                                            ,Forward        ,26
+482,Nianzou                                           ,Midfielder     ,7
+483,Pessina                                           ,Midfielder     ,25
+484,Koopmeiners                                       ,Midfielder     ,25
+485,Szoboszlai                                        ,Midfielder     ,29
+486,Marlos                                            ,Midfielder     ,22
+487,Ugarte                                            ,Midfielder     ,14
+488,Yakhshiboev                                       ,Forward        ,18
+489,Munir                                             ,Forward        ,21
+490,Van de Beek                                       ,Midfielder     ,16
+491,Bornauw                                           ,Defender       ,19
+492,Neres                                             ,Forward        ,12
+493,Haaland                                           ,Forward        ,24
+494,Bruno Tabata                                      ,Midfielder     ,14
+495,Delaney                                           ,Midfielder     ,21
+496,Darmian                                           ,Defender       ,10
+497,Schulz                                            ,Defender       ,24
+498,Matić                                             ,Midfielder     ,16
+499,Gerhardt                                          ,Midfielder     ,19
+500,Kryvtsov                                          ,Defender       ,22
+501,Necip Uysal                                       ,Midfielder     ,32
+502,Chilwell                                          ,Defender       ,8
+503,Moisander                                         ,Defender       ,30
+504,Montiel                                           ,Defender       ,21
+505,Alex Teixeira                                     ,Midfielder     ,32
+506,Haidara                                           ,Midfielder     ,29
+507,Guerreiro                                         ,Defender       ,24
+508,Vlahović                                          ,Forward        ,15
+509,Morato                                            ,Defender       ,5
+510,Bürgy                                             ,Defender       ,28
+511,Vida                                              ,Defender       ,32
+512,Bailly                                            ,Defender       ,16
+513,Leo Jardim                                        ,Goalkeeper     ,9
+514,M. Kerzhakov                                      ,Goalkeeper     ,23
+515,Onana                                             ,Goalkeeper     ,12
+516,Mudryk                                            ,Midfielder     ,22
+517,L. de Jong                                        ,Forward        ,27
+518,Rugani                                            ,Defender       ,15
+519,Chalobah                                          ,Defender       ,8
+520,Elanga                                            ,Forward        ,16
+521,Paulo Otávio                                      ,Defender       ,19
+522,Wolf                                              ,Midfielder     ,24
+523,Pongračić                                         ,Defender       ,24
+524,Sergi Roberto                                     ,Midfielder     ,27
+525,Kean                                              ,Forward        ,15
+526,Gomes                                             ,Midfielder     ,9
+527,Óliver Torres                                     ,Midfielder     ,21
+528,Lefort                                            ,Defender       ,28
+529,Diallo                                            ,Defender       ,13
+530,Ricca                                             ,Defender       ,17
+531,Tiago Tomás                                       ,Forward        ,14
+532,Van Der Brempt                                    ,Defender       ,17
+533,Tymchyk                                           ,Defender       ,20
+534,Ibrahimović                                       ,Forward        ,31
+535,Saúl Ñíguez                                       ,Midfielder     ,8
+536,Pedri                                             ,Midfielder     ,27
+537,Pizzi                                             ,Midfielder     ,5
+538,Vormer                                            ,Midfielder     ,17
+539,Hutchinson                                        ,Midfielder     ,32
+540,Yansané                                           ,Forward        ,18
+541,Alexis Sánchez                                    ,Forward        ,10
+542,Meite                                             ,Midfielder     ,5
+543,Fábio Cardoso                                     ,Defender       ,26
+544,Karavaev                                          ,Defender       ,20
+545,Fati                                              ,Forward        ,27
+546,Mostovoy                                          ,Midfielder     ,23
+547,Poulsen                                           ,Forward        ,29
+548,Ambrosio                                          ,Defender       ,10
+549,Schuurs                                           ,Defender       ,12
+550,T.Martínez                                        ,Forward        ,26
+551,Matheus Cunha                                     ,Forward        ,6
+552,T. Hazard                                         ,Midfielder     ,24
+553,Tagliafico                                        ,Defender       ,12
+554,Draxler                                           ,Forward        ,13
+555,Rıdvan Yılmaz                                     ,Defender       ,32
+556,Sabitzer                                          ,Midfielder     ,7
+557,Daniel Bragança                                   ,Midfielder     ,14
+558,Diogo Gonçalves                                   ,Midfielder     ,5
+559,P.Wendell                                         ,Defender       ,26
+560,Mechele                                           ,Defender       ,17
+561,Muriel                                            ,Forward        ,25
+562,Aurier                                            ,Defender       ,3
+563,Reinier                                           ,Forward        ,24
+564,Marcano                                           ,Defender       ,26
+565,I.Sarr                                            ,Defender       ,7
+566,Rekik                                             ,Defender       ,21
+567,Vecino                                            ,Midfielder     ,10
+568,Lewicki                                           ,Midfielder     ,30
+569,Dembélé                                           ,Forward        ,27
+570,Lamela                                            ,Midfielder     ,21
+571,Waldschmidt                                       ,Forward        ,19
+572,Rebić                                             ,Forward        ,31
+573,Lingard                                           ,Midfielder     ,16
+574,Abubakari                                         ,Forward        ,30
+575,Brobbey                                           ,Forward        ,29
+576,Messias Junior                                    ,Forward        ,31
+577,Lázaro                                            ,Midfielder     ,5
+578,Maceiras                                          ,Defender       ,28
+579,Salih Uçan                                        ,Midfielder     ,32
+580,Coutinho                                          ,Forward        ,27
+581,XD.Correa                                         ,Forward        ,10
+582,Erokhin                                           ,Midfielder     ,23
+583,Shkurin                                           ,Forward        ,20
+584,Slimani                                           ,Forward        ,14
+585,Demir                                             ,Midfielder     ,27
+586,Gosens                                            ,Midfielder     ,25
+587,Traoré                                            ,Forward        ,22
+588,Tigges                                            ,Forward        ,24
+589,Sarr                                              ,Defender       ,8
+590,Ranocchia                                         ,Defender       ,10
+591,Nikolov                                           ,Midfielder     ,18
+592,Zagadou                                           ,Defender       ,24
+593,Mata                                              ,Midfielder     ,16
+594,Barkley                                           ,Midfielder     ,8
+595,Andriyevskiy                                      ,Midfielder     ,20
+596,Vitinho                                           ,Midfielder     ,20
+597,Mario Gaspar                                      ,Defender       ,3
+598,Verbič                                            ,Midfielder     ,20
+599,Ballo                                             ,Defender       ,31
+600,Philipp                                           ,Forward        ,19
+601,Hateboer                                          ,Defender       ,25
+602,Koudou                                            ,Midfielder     ,32
+603,Egan-Riley                                        ,Defender       ,4
+604,Shabanov                                          ,Defender       ,20
+605,Bondar                                            ,Defender       ,22
+606,Lustenberger                                      ,Defender       ,28
+607,Serdar Saatçı                                     ,Defender       ,32
+608,Vitão                                             ,Defender       ,22
+609,Ulreich                                           ,Goalkeeper     ,7
+610,XD.Martínez                                       ,Goalkeeper     ,29
+611,Pervan                                            ,Goalkeeper     ,19
+612,Kepa                                              ,Goalkeeper     ,8
+613,João Virginia                                     ,Goalkeeper     ,14
+614,Günok                                             ,Goalkeeper     ,32
+615,Celeadnic                                         ,Goalkeeper     ,18
+616,Boyko                                             ,Goalkeeper     ,20
+617,Perin                                             ,Goalkeeper     ,15
+618,Steffen                                           ,Goalkeeper     ,4
+619,Nanasi                                            ,Midfielder     ,30
+620,Florenzi                                          ,Defender       ,31
+621,Olmo                                              ,Forward        ,29
+622,Fábio Vieira                                      ,Midfielder     ,26
+623,Bondarenko                                        ,Midfielder     ,22
+624,Piątkowski                                        ,Defender       ,11
+625,Nalić                                             ,Midfielder     ,30
+626,Korniienko                                        ,Defender       ,22
+627,En-Nesyri                                         ,Forward        ,21
+628,Supryaha                                          ,Forward        ,20
+629,De Winter                                         ,Defender       ,15
+630,Kulusevski                                        ,Midfielder     ,15
+631,Augustinsson                                      ,Defender       ,21
+632,Radeljić                                          ,Defender       ,18
+633,Jovane Cabral                                     ,Forward        ,14
+634,Marc Roca                                         ,Defender       ,7
+635,Kanga                                             ,Forward        ,28
+636,Cavani                                            ,Forward        ,16
+637,Gökhan Töre                                       ,Midfielder     ,32
+638,Emre Can                                          ,Defender       ,24
+639,Alcácer                                           ,Forward        ,3
+640,Esteves                                           ,Defender       ,14
+641,Rensch                                            ,Defender       ,12
+642,Ferran Torres                                     ,Forward        ,4
+643,Kehrer                                            ,Defender       ,13
+644,Krugovoi                                          ,Defender       ,23
+645,Dost                                              ,Forward        ,17
+646,x.Diallo                                          ,Midfielder     ,16
+647,Henderson                                         ,Goalkeeper     ,16
+648,Martial                                           ,Forward        ,16
+649,Gagliardini                                       ,Midfielder     ,10
+650,Rúben Vinagre                                     ,Defender       ,14
+651,Mambimbi                                          ,Forward        ,28
+652,Moriba                                            ,Midfielder     ,29
+653,Passlack                                          ,Midfielder     ,24
+654,Bakayoko                                          ,Defender       ,31
+655,Pezzella                                          ,Defender       ,25
+656,Sudakov                                           ,Midfielder     ,22
+657,Sandra                                            ,Midfielder     ,17
+658,Mbamba-Muanda                                     ,Defender       ,17
+659,Shepeliev                                         ,Midfielder     ,20
+660,Richards                                          ,Defender       ,7
+661,Julien                                            ,Defender       ,18
+662,Oğuzhan Özyakup                                   ,Midfielder     ,32
+663,Daramy                                            ,Forward        ,12
+664,Henrichs                                          ,Defender       ,29
+665,Choupo-Moting                                     ,Midfielder     ,7
+666,Yusuf Yazıcı                                      ,Midfielder     ,9
+667,Icardi                                            ,Forward        ,13
+668,McAtee                                            ,Midfielder     ,4
+669,Lovato                                            ,Defender       ,25
+670,Palmer                                            ,Midfielder     ,4
+671,Paulo Bernardo                                    ,Midfielder     ,5
+672,Kjærgaard                                         ,Midfielder     ,11
+673,Taylor                                            ,Midfielder     ,12
+674,Francisco Conceição                               ,Forward        ,26
+675,F. Nmecha                                         ,Midfielder     ,19
+676,Pepê                                              ,Forward        ,26
+677,Al. Miranchuk                                     ,Forward        ,25
+678,Edwards                                           ,Forward        ,14
+679,Radonjić                                          ,Forward        ,5
+680,Mengi                                             ,Defender       ,16
+681,Wesley                                            ,Forward        ,17
+682,Mandi                                             ,Defender       ,3
+683,Kudus                                             ,Midfielder     ,12
+684,Novoa                                             ,Midfielder     ,29
+685,Lihadji                                           ,Forward        ,9
+686,Bernardo                                          ,Defender       ,11
+687,Tijani                                            ,Midfielder     ,11
+688,Ben Arfa                                          ,Midfielder     ,9
+689,Óscar Rodríguez                                   ,Midfielder     ,21
+690,Shoretire                                         ,Midfielder     ,16
+691,Heaton                                            ,Goalkeeper     ,16
+692,Stanišić                                          ,Defender       ,7
+693,Knauff                                            ,Midfielder     ,24
+694,Maldini                                           ,Forward        ,31
+695,Moukoko                                           ,Forward        ,24
+696,Iván Romero                                       ,Forward        ,21
+697,Flávio Nazinho                                    ,Defender       ,14
+698,Balde                                             ,Defender       ,27
+699,Tillman                                           ,Midfielder     ,7
+700,Peña                                              ,Defender       ,3
+701,Ricard Puig                                       ,Midfielder     ,27
+702,Berkay Vardar                                     ,Midfielder     ,32
+703,Carson                                            ,Goalkeeper     ,4
+704,Eric Ramirez                                      ,Forward        ,20
+705,Cojocaru                                          ,Midfielder     ,18
+706,Javi Serrano                                      ,Midfielder     ,6
+707,Agüero                                            ,Forward        ,27
+708,Ramsey                                            ,Midfielder     ,15
+709,Kravtsov                                          ,Midfielder     ,23
+710,Bradarić                                          ,Defender       ,9
+711,Ozdoev                                            ,Midfielder     ,23
+712,Bruno Costa                                       ,Midfielder     ,26
+713,Raba                                              ,Midfielder     ,3
+714,Iborra                                            ,Midfielder     ,3
+715,Bonnah                                            ,Midfielder     ,29
+716,Sensi                                             ,Midfielder     ,10
+717,Lednev                                            ,Midfielder     ,20
+718,Zhegrova                                          ,Midfielder     ,9
+719,Seferović                                         ,Forward        ,5
+720,Zakaria                                           ,Midfielder     ,15
+721,Dário Essugo                                      ,Midfielder     ,14
+722,Spielmann                                         ,Midfielder     ,28
+723,Izquierdo                                         ,Forward        ,17
+724,Chiellini                                         ,Defender       ,15
+725,Dina Ebimbe                                       ,Midfielder     ,13
+726,Sulejmani                                         ,Midfielder     ,28
+727,Delap                                             ,Forward        ,4
+728,Mbete                                             ,Defender       ,4
+729,Kolarov                                           ,Defender       ,10
+730,Šimić                                             ,Forward        ,11
+731,Guindo                                            ,Defender       ,11
+732,Dentinho                                          ,Midfielder     ,22
+733,Shevchenko                                        ,Goalkeeper     ,22
+734,Maier                                             ,Midfielder     ,28
+735,Luca Pellegrini                                   ,Defender       ,15
+736,Kuznetsov                                         ,Forward        ,23
+737,Eile                                              ,Defender       ,30
+738,Ginczek                                           ,Forward        ,19
+739,Savage                                            ,Midfielder     ,16
+740,Iqbal                                             ,Midfielder     ,16
+741,Da Graca                                          ,Forward        ,15
+742,Miretti                                           ,Midfielder     ,15
+743,Gil Dias                                          ,Midfielder     ,5
+744,Rodrigo Ribeiro                                   ,Forward        ,14
+745,Cojocari                                          ,Defender       ,18
+746,Maouassa                                          ,Defender       ,17
+747,Zesiger                                           ,Defender       ,28
